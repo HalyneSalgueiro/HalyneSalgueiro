@@ -1,10 +1,9 @@
 
-
 ### Olá! Eu sou a Halyne Salgueiro 👋
 
 - ☕💻 Desenvolvedora Front-End em construção
 - 💻 Estou cursando Análise e Desenvolvimento Web na Uninove 
-- 🌱 Estudando JavaScript & Python
+- 🌱 Estudando JavaScript 
 - 😄 Pronome ela/dela
 
 <div align="center">

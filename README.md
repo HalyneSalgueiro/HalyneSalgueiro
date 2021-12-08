@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Halyne Salgueiro 👋
 
 - ☕💻 Estudante de Análise e Desenvolvimento de Sistemas - Uninove
-- 🌱 Estudando Python / JavaScript
+- 🌱 Estudando Python / JavaScript / SAS
 - 😄 Pronome ela/dela
 
 <div align="center">

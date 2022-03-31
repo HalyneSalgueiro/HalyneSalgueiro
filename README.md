@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Halyne Salgueiro 👋
 
-- ☕💻 Estudante de Análise e Desenvolvimento de Sistemas - Uninove
-- 🌱 Estudando Python / SQL  SERVER
-- 😄 Pronome ela/dela
-
+- ☕💻 Estudante de Tecnologia  em Banco de dados
+- 🌱 Estudando Python / SQL  SERVER 
+- 😄 Pronome ela/dela 
+          
 <div align="center">
   <a href="https://github.com/HalyneSalgueiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HalyneSalgueiro&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
